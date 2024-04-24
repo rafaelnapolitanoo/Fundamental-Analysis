@@ -14,3 +14,7 @@ fará um comparativo por meio de graficos entre a ação escolida e outras 3 do 
 Ultilizarei a biblioteca pandas para analisar e tratar os diversos dados recebidos após a requisição e usarei matplotilib ou seaborn para execução dos graficos.
 
 Pretendo ,ao finalizar, transformar em um arquivo executavel com aplicação gráfica do tkinter ou então colocar em um dominio para o código não ficar tão lento e demorado.
+
+
+
+This personal project aims to assist in fundamental analysis of companies before investing, merging programming and economics. The code is designed to comprehend financial fundamentals such as net profit, revenue, profit margin, ROE (return on equity), EBITDA (earnings before interest, taxes, depreciation, and amortization), debt ratio (debt/equity), liquidity (current ratio), and valuation multiples (P/E, P/B, etc.). It starts with user input to select the desired stock ticker, using an API to fetch financial indicators from the Fundamentus website and storing them. Next, it compares the indicators of the selected stock with three others from the same sector using graphs, providing a fair comparison. The project employs the pandas library for data analysis and matplotilib or seaborn for graphs. The ultimate goal is to transform it into an executable file with a graphical interface using tkinter or host it on a domain for improved code efficiency.
